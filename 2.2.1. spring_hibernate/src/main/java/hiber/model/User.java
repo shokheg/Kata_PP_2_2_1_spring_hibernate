@@ -1,5 +1,7 @@
 package hiber.model;
 
+import org.springframework.context.annotation.Lazy;
+
 import javax.persistence.*;
 
 @Entity
